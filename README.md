@@ -23,14 +23,6 @@ CS student building iOS apps, Python tools, and backend systems.
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamza5645&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza5645&layout=compact&hide_border=true)
-
----
-
 ## Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-abdelrahman-osama)
