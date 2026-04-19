@@ -21,6 +21,8 @@ CS student building iOS apps, Python tools, and backend systems.
 
 **Mafia Manager** — A strategy game live on the [App Store](https://apps.apple.com/eg/app/mafia-society/id6756177788)
 
+**Monitor The Situations** — Live at [monitorthesituations.com](https://github.com/hamza5645/Monitor-The-Situations)
+
 ---
 
 ## Links
